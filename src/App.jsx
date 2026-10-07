@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Blank React Project</h1>
+      <canvas></canvas>
     </div>
   );
 }
